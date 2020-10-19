@@ -27,8 +27,12 @@ button:disabled {
 }
 
 h1 {
-  font-size: 20px;
-  text-align:center;
+  font-size: 2rem;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.3rem;
 }
 
 textarea {
