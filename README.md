@@ -1,6 +1,6 @@
 # Speed Typing Game
 
-**LIVE LINK:** 
+**LIVE LINK:** https://fasttiyping.netlify.app/
 
 ## Features
 * Fully responsive (mobile first)
